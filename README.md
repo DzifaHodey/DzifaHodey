@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/60604704/146804838-1384152e-97cb-4514-af61-ec78a0ebf2ac.gif">
+<img src="https://user-images.githubusercontent.com/60604704/146805885-ea9478ea-5db3-4a61-a4c7-ad12edec980a.gif">
 
 <h3 align="center">
 Hi there, I'm Dzifa Hodey. 👋
