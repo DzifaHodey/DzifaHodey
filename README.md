@@ -1,7 +1,7 @@
 <p>
     <video autoplay>
-  <source src="https://user-images.githubusercontent.com/60604704/146782277-c872755b-c1e6-40dd-b2bb-3ae5bf4048c6.mp4" type="video/mp4">
-  </video>
+    <source src="https://user-images.githubusercontent.com/60604704/146804838-1384152e-97cb-4514-af61-ec78a0ebf2ac.gif">
+    </video>
 </p>
 
 <h3 align="center">
@@ -23,15 +23,13 @@ I also love working with data to gain insight into physical systems.
 ![Scala](https://img.shields.io/badge/Code-Scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Code-Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Code-Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![MySQL](https://img.shields.io/badge/Code-MySql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
-<!-- </br> -->
+</br>
 
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
@@ -49,7 +47,7 @@ I also love working with data to gain insight into physical systems.
 
 
 ## 🌱 I’m currently learning
- - <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" width=70>
+ - <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" width=90>
 
 
 
