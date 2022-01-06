@@ -5,7 +5,7 @@ Hi there, I'm Dzifa Hodey. 👋
 </h3>
 
 <h2 align="center">
-I am a Backend Web Developer and an IoT Enthusiast.
+I am a Backend Engineer and an IoT Enthusiast.
 </h2>
 
 I enjoy using technology to solve problems. Excited about creating software that exceeds client expectations.
