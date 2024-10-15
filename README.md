@@ -54,7 +54,7 @@ I also love working with data to gain insight into physical systems.
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzifahodey&show_icons=true&locale=en&layout=compact" alt="dzifahodey" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzifahodey&show_icons=true&locale=en&layout=compact" alt="dzifahodey" /></p>-->
 
 <!--github stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzifahodey&show_icons=true&locale=en" alt="dzifahodey" /></p>-->
