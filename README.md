@@ -6,7 +6,7 @@
 I enjoy using technology to solve problems. Excited about creating software that improves business outcomes.
 I also love working with data to gain insight into physical systems.
 
-- 💬 Ask me about **java, spring boot, python**
+- 💬 Ask me about **java, spring boot, python, angular**
   
 - 📝 I occasionally write articles on [https://dev.to/dzifahodey](https://dev.to/dzifahodey)
 
