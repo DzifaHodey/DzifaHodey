@@ -10,7 +10,7 @@ I also love working with data to gain insight into physical systems.
   
 - 📝 I occasionally write articles on [https://dev.to/dzifahodey](https://dev.to/dzifahodey)
 
-- 📄 Know about my experiences [https://bit.ly/dzifa-hodey-resume](https://bit.ly/dzifa-hodey-resume)
+<!--- 📄 Know about my experiences [https://bit.ly/dzifa-hodey-resume](https://bit.ly/dzifa-hodey-resume)-->
 
 - ⚡ Fun fact: **I love games. I'm up for any challenge!**
 
