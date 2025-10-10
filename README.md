@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/60604704/146805885-ea9478ea-5db3-4a61-a4c7-ad12edec980a.gif">
 
 <h1 align="center"> Hi there, I'm Dzifa Hodey. 👋</h1>
-<h3 align="center">Software and IoT Engineer</h3>
+<h3 align="center">Software and AI Engineer</h3>
 
 I enjoy using technology to solve problems. Excited about creating software that improves business outcomes.
 I also love working with data to gain insight into physical systems.
